@@ -1,2 +1,1 @@
-<img src="panel_front.png" alt="drawing" width="400"/>
-<img src="panel_back.png" alt="drawing" width="400"/>
+<img src="panel_front.png" alt="drawing" width="400"/><img src="panel_back.png" alt="drawing" width="400"/>
