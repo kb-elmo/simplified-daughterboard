@@ -1,0 +1,11 @@
+(module Generic-Mounthole (layer F.Cu) (tedit 60421D40)
+  (attr virtual)
+  (fp_text reference MH4 (at 0 2) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Mount-M2 (at 0 -2) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 3.500001 3.500001) (drill 2.2) (layers *.Mask F.Cu)
+    (clearance 0.508))
+)

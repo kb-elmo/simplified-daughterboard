@@ -1,0 +1,27 @@
+Drill report for sDB_panel.kicad_pcb
+Created on Fri Mar  5 15:17:46 2021
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'sDB_panel.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (24 holes)
+    T2  0.60mm  0.024"  (16 holes)  (with 16 slots)
+    T3  2.20mm  0.087"  (4 holes)
+
+    Total plated holes count 44
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T4  0.50mm  0.020"  (108 holes)
+    T5  0.65mm  0.026"  (8 holes)
+    T6  2.20mm  0.087"  (12 holes)
+
+    Total unplated holes count 128

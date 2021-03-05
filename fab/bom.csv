@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x04,J2,custom_parts:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,
+USB_C_Receptacle_USB2.0,J1,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
+5.6k,"R1,R2",Resistor_SMD:R_0603_1608Metric,C23189
+L_Core_Ferrite,L1,Inductor_SMD:L_1206_3216Metric,C33600
+D_TVS,D1,Diode_SMD:D_SOD-323,C151996
+MountingHole_Pad,H1,custom_parts:Generic-Mounthole-dual,
+MountingHole,"H2,H3,H4",custom_parts:Generic-Mounthole,
