@@ -6,7 +6,7 @@
 
 <img src="render.png" alt="drawing" width="800"/>
 
-This daughterboard is meant to be  minimal electronics required for breaking out the VBUS, data and ground lines from a USB type C port.  
+This daughterboard features minimal electronics required for breaking out the VBUS, data and ground lines from a USB type C port.  
 It includes a basic USB shielding circuit but has no ESD protection or fuse built in.
 
 Fuse and (optional) ESD protection should be added on the main PCB if you want to use this daughterboard for your project.
