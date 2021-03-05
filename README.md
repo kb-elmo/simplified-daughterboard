@@ -4,7 +4,7 @@
 
 ### Simple USB-C daughterboard
 
-<img src="preview.png" alt="drawing" width="800"/>
+<img src="render.png" alt="drawing" width="800"/>
 
 This daughterboard features minimal electronics required for breaking out the VBUS, data and ground lines from a USB type C port.  
 It features a basic USB shielding circuit but has no ESD protection or fuse built in.
