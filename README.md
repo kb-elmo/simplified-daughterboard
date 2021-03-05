@@ -29,7 +29,7 @@ Since the single PCB alone is too small for SMT assembly from JLCPCB and automat
 
 ---
 
-<img src="pcb_front.png" alt="drawing" width="300"/><div width="50"></div><img src="pcb_back.png" alt="drawing" width="300"/>
+<img src="pcb_front.png" alt="drawing" width="300"/>   <img src="pcb_back.png" alt="drawing" width="300"/>
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
