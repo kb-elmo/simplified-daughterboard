@@ -1,1 +1,3 @@
-<img src="panel_front.png" alt="drawing" width="400"/> <img src="panel_back.png" alt="drawing" width="400"/>
+## Panelized PCB for JLCPCB SMT assembly
+<img src="panel_front.png" alt="drawing" width="800"/>
+<img src="panel_back.png" alt="drawing" width="800"/>
