@@ -1,6 +1,6 @@
 # Simple Daughterboard
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![Open Source Love][os-love]][https://opensource.com/resources/what-open-hardware]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![Open Source Love][os-love]](https://opensource.com/resources/what-open-hardware)
 
 ### Simple USB-C daughterboard
 
