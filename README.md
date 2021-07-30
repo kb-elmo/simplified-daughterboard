@@ -1,6 +1,7 @@
 # Simplified USB-C Daughterboard
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![Open Source Love][os-love]](https://opensource.com/resources/what-open-hardware)
+<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
 
 <img src="render.png" alt="drawing" width="800"/>
 
